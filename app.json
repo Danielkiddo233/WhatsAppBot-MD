@@ -11,7 +11,7 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "0,2349046686539"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "0,2349046686539"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -86,7 +86,7 @@
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "Penny wise"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
